@@ -1,0 +1,7 @@
+id = "dark-prism"
+name = "Dark Prism"
+version = "0.0.1"
+schema_version = 1
+authors = ["Pawel Chomicki"]
+description = "Prism of colors over darkness. Color theme for Zed editor."
+repository = "https://github.com/your-name/my-zed-extension"
